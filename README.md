@@ -8,7 +8,7 @@
 </h2> 
 
 <p>
-   My name is Felipe Higa, i'm currently a college student at @Bandtec and treinee at @Linx-StoneCo. Mostly of my job are with C#, HTML and JS, but i'm always looking for new technologys to learn.
+   My name is Felipe Higa, i'm currently a college student at <a href="http://www.digitalschool.com.br/faculdade/">Bandtec</a> and treinee at <a href="https://www.linx.com.br/">Linx & StoneCo</a>. Most of my job are with C#, HTML and JS, but i'm always looking for new technologys to learn.
 </p>
 
 ### 📚 Studying:

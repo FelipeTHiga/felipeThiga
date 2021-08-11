@@ -1,6 +1,6 @@
 <p> 
   <img
-    src="https://wallpaperaccess.com/full/903041.jpg"
+    src="https://media.discordapp.net/attachments/487332107044257815/875104765934198784/903041.jpg?width=1440&height=412"
   >
 
 </p>

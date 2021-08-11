@@ -14,11 +14,11 @@
     <img 
          height="180em" 
          src="https://github-readme-stats.vercel.app/api?username=felipeThiga&show_icons=true&theme=dracula&title_color=19CFD0&include_all_commits=true&count_private=true"
-    >
+    />
 
     <img 
          height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeThiga&layout=compact&title_color=19CFD0&langs_count=7&theme=dracula"
-    >
+   />
 </div>
  

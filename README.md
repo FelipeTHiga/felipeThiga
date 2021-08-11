@@ -1,6 +1,5 @@
 <h2>
-  <img style = "-webkit-transform: scaleX(-1); transform: scaleX(-1)" height="60em"
-       src="https://media.discordapp.net/attachments/487332107044257815/875041027063447592/PngItem_2304541.png?width=866&height=609"/>
+  <img height="60em" src="https://media.discordapp.net/attachments/487332107044257815/875041027063447592/PngItem_2304541.png?width=866&height=609"/>
  
   Hello there
   

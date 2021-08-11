@@ -1,6 +1,6 @@
 <h2>Hello there</h2> 
 
- <img height="10em" src="https://4.bp.blogspot.com/-iatQylvXxK8/V1Lr3PJtDSI/AAAAAAAAEyM/haCBC3bPXpcdW0tmxgpDJdxvSd_EuSLPACLcB/s1600/obiwwa.png"/>
+ <img height="50em" src="https://4.bp.blogspot.com/-iatQylvXxK8/V1Lr3PJtDSI/AAAAAAAAEyM/haCBC3bPXpcdW0tmxgpDJdxvSd_EuSLPACLcB/s1600/obiwwa.png"/>
 
 <!--
 **FelipeTHiga/felipeThiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

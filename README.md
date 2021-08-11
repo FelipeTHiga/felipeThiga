@@ -1,8 +1,6 @@
 <h2>
   <img height="60em" src="https://media.discordapp.net/attachments/487332107044257815/875041027063447592/PngItem_2304541.png?width=866&height=609"/>
- 
   Hello there
-  
   <img height="50em" src="https://media.discordapp.net/attachments/487332107044257815/875041008516235324/obiwwa.png"/>
 </h2> 
 

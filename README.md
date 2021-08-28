@@ -31,7 +31,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/875107364389400656/875122222325465138/79w.gif" height="140em" >
+  <img align="right" src="https://media.discordapp.net/attachments/875107364389400656/875122222325465138/79w.gif" height="140em" >
 </div>
   
  ##

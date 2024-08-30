@@ -1,22 +1,12 @@
-<p> 
-  <img src="https://media.discordapp.net/attachments/487332107044257815/875104765934198784/903041.jpg?width=1440&height=412">
-</p>
-
 <h2>
-  <img height="100em" src="https://media.discordapp.net/attachments/875107364389400656/875112278347894895/toppng.com-studio-ghibli-icons1-0008-layer16-so-you-wanna-watch-studio-ghibli-icon-356x568.png?width=358&height=571"/>
   ~ About me
 </h2> 
 
 <p>
-   My name is Felipe Higa, i'm currently a college student at <a href="http://www.digitalschool.com.br/faculdade/">Bandtec</a> and treinee at <a href="https://www.linx.com.br/">Linx & StoneCo</a>. Most of my job are with C#, HTML and JS, but i'm always looking for new technologys to learn.
+   I am a motivated and detail-oriented software developer with experience in both front-end and back-end development. My background includes working with technologies such as C#, JavaScript, SQL, and Agile methodologies, where I have successfully contributed to delivering robust and user-friendly applications. Currently, I am expanding my skill set in data analysis and web development through a Data Analytics Co-Op Diploma program in Vancouver, BC.
+
+I thrive in collaborative environments, enjoy tackling real-world challenges, and am passionate about creating solutions that enhance user experiences. My goal is to continually grow as a developer while making meaningful contributions to innovative projects that drive business success.
 </p>
-
-### 📚 Studying:
-* Java
-* React
-* Node
-
-##
 
 <div>
   <a href="https://github.com/felipeThiga">
